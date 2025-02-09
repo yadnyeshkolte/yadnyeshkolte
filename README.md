@@ -69,7 +69,7 @@ Electronics and Computer Science student at VNIT Nagpur, passionate about buildi
 ![Technical Writing](https://img.shields.io/badge/-Technical%20Writing-000?&logo=markdown)
 ![Hardware Integration](https://img.shields.io/badge/-Hardware%20Integration-000?&logo=arduino)
 
-### 📚 Certifications
+#### 📚 Certifications
 - 🏅 [LFS162: Introduction to DevOps and Site Reliability Engineering](https://www.credly.com/badges/fad34ca8-37f8-409f-bb60-9c0474ffb786/public_url) (Linux Foundation)
 - 🏅 [AWS Educate Introduction to Cloud 101](https://www.credly.com/badges/da4ecf7b-25c5-4878-bd94-a50b36f7d3bd/public_url) (Amazon Web Services)
 - 🏅 [GitHub Foundations](https://www.credly.com/badges/8e239a24-342f-4d8d-a90c-837ca3dd4b0d/public_url) (GitHub)
@@ -80,7 +80,7 @@ Electronics and Computer Science student at VNIT Nagpur, passionate about buildi
 - 🏅 [Java Programming: Solving Problems with Software](https://www.coursera.org/account/accomplishments/verify/P3QWS7GBVVRJ) (Coursera)
 - 🏅 [Agile Project Management Certification](https://drive.google.com/file/d/1s49XqG9UwxHNoX1_JcbIWP7VzmmcTa4t/view) (HP LIFE)
 
-### 🌐 Languages
+#### 🌐 Languages
 - 🇬🇧 English (Professional Working)
 - 🇮🇳 Marathi (Native)
 - 🇮🇳 Hindi (Professional Working)
