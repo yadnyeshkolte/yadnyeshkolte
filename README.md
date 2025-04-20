@@ -5,7 +5,7 @@
 [![GitHub Gist](https://img.shields.io/badge/Gist-100000?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/yadnyeshkolte)
 
 ## 🚀 About Me
-Electronics and Computer Science student at VNIT Nagpur, passionate about building innovative solutions, and experienced in full-stack development, DevOps, and IoT.
+Electronics and Computer Science student from VNIT Nagpur, passionate about building innovative solutions, and experienced in full-stack development, DevOps, and IoT.
 
 ### 💻 Tech Stack that I had experience with
 
