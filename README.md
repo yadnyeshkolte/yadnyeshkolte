@@ -9,7 +9,7 @@ Electronics and Computer Science student from VNIT Nagpur, passionate about buil
 
 ### 💻 Tech Stack that I had experience with
 
-#### 👨‍💻 Programming Languages
+#### 👨‍💻 Languages
 ![Java](https://custom-icon-badges.herokuapp.com/badge/-Java-000?&logo=Java-lang)
 ![Shell](https://img.shields.io/badge/-Shell-000?&logo=GNOMETerminal)
 ![Vim Script](https://img.shields.io/badge/-Vim%20Script-000?&logo=vim&logoColor=green)
